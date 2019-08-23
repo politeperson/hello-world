@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi humans!!! 
+
+
+i will made a commit, or i did it? 
